@@ -1,3 +1,5 @@
+import '../assets/styles/header.scss'
+
 const Header = () => {
 	return (
 		<header className="app-header">
